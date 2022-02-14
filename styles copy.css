@@ -1,0 +1,48 @@
+#title{
+    text-align: center;
+}
+
+#image{
+    display: flex;
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+}
+
+#secondTitle{
+    text-align: center;
+}
+
+#information{
+    text-align: left;
+    line-height: 2;
+    margin: 0 auto 50px auto;
+    width: 550px;
+}
+
+#finalQuote{
+    text-align: left;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 550px;
+    margin: 0 auto 50px auto;
+}
+
+#footer{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.Container{
+    background-color: rgb(213, 241, 202);
+    padding-top: 2rem;
+}
+
+body{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
